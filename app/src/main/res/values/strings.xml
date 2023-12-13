@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherApplicationTest</string>
+    <string name="title_activity_weather_results">WeatherResultsActivity</string>
+    <string name="search_text">
+        Search for weather by city, state/province, country (ex. San Francisco,CA,USA)
+    </string>
+    <string name="weather_loading">Searching for weather data...</string>
+    <string name="feels_like">Feels like: %s</string>
+    <string name="multiple_cities">
+        Could you add Provience or even Country code? (ex. San Francisco, CA, USA)
+    </string>
+    <string name="invalid_input">The city you entered was invalid</string>
+    <string name="generic_error">
+        There seems to be an error retrieving the weather
+    </string>
+</resources>
